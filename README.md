@@ -5,7 +5,7 @@ This is a nodeJS console game created for the codecademy project find Your Hat.
 To play launch main.js in the console with teh following commands:
 node main.js
 
-then input a height and a width of your field (digits inputs only)
+then input a height and a width of your field (digit inputs only)
 
 You can the control your character (* character) with WASD.
 
