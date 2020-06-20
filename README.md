@@ -1,6 +1,6 @@
 README
 
-This is a nodeJS consoel game created for the codecademy project find Your Hat.
+This is a nodeJS console game created for the codecademy project find Your Hat.
 
 To play launch main.js in the console with teh following commands:
 node main.js
